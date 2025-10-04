@@ -14,6 +14,6 @@
 
    intro
    begin
-   manual
+   manual/index
    concert
    qna
