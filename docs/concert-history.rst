@@ -9,11 +9,11 @@
    :scale: 50 %
    :alt: 2022 年新年音乐会合照
 
-.. figure:: ../assets/21Fa-pro-1.png
+.. figure:: ../assets/21Fa-pro-1.jpg
    :scale: 50 %
    :alt: 2022 年新年音乐会节目单（正面）
 
-.. figure:: ../assets/21Fa-pro-2.png
+.. figure:: ../assets/21Fa-pro-2.jpg
    :scale: 50 %
    :alt: 2022 年新年音乐会节目单（背面）
 
@@ -24,7 +24,7 @@
    :scale: 50 %
    :alt: 2022 年春季音乐会合照
 
-.. figure:: ../assets/22Sp-pro-2.png
+.. figure:: ../assets/22Sp-pro-2.jpg
    :scale: 50 %
    :alt: 2022 年春季音乐会节目单（背面）
 
@@ -95,11 +95,11 @@
    :scale: 50 %
    :alt: 2025 年“琴舞初夏”音乐会合照
 
-.. figure:: ../assets/25Sp-pro-1.png
+.. figure:: ../assets/25Sp-pro-1.jpg
    :scale: 50 %
    :alt: 2025 年“琴舞初夏”音乐会节目单（正面）
 
-.. figure:: ../assets/25Sp-pro-2.png
+.. figure:: ../assets/25Sp-pro-2.jpg
    :scale: 50 %
    :alt: 2025 年“琴舞初夏”音乐会节目单（背面）
 
