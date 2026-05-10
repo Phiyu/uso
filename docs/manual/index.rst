@@ -3,20 +3,24 @@
 
 本指南主要用于介绍团务工作相关的内容，帮助负责人系统地完成年度工作，并总结历年经验，给出 checklist，以供参考.
 
-.. toctree::
-   :maxdepth: 2
-   :caption: 团务工作内容:
-
-   freshman-course
-   club-fair
-   welcome-party
-   anime-night
-   new-year-concert
-   acg-concert
-   spring-concert
 
 常用文件
 --------------------------
 
-:doc:`../assets/pdf/签领表.pdf <奖品签领表>`
-:doc:`../assets/html/学年工作.html <学年工作清单>`
+:doc:`奖品签领表 <../assets/pdf/签领表.pdf>`
+:doc:`学年工作清单 <../assets/html/学年工作.html>`
+
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: 团务工作内容:
+
+..    freshman-course
+..    club-fair
+..    welcome-party
+..    anime-night
+..    new-year-concert
+..    acg-concert
+..    spring-concert
+
+
+
