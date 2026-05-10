@@ -15,5 +15,5 @@
    intro
    begin
    manual/index
-   concert
+   concert-history
    qna

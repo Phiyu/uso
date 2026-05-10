@@ -15,13 +15,14 @@
    :maxdepth: 1
    :caption: 活动清单:
 
+   concert
    freshman-course
    club-fair
    welcome-party
    anime-night
-   acg-concert
    sufeng
    college-carnival
+   acg-concert
 
 
 
