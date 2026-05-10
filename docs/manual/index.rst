@@ -8,21 +8,20 @@
 --------------------------
 
 :download:`奖品签领表 <../_static/pdf/签领表.pdf>` 
+:download:`专场音乐会策划案（2025秋，张博涵） <../_static/pdf/2025新年音乐会策划案.pdf>` 
 
-:download:`学年工作清单 <../_static/html/学年工作.html>` 
 
+.. toctree::
+   :maxdepth: 1
+   :caption: 活动清单:
 
-.. .. toctree::
-..    :maxdepth: 2
-..    :caption: 团务工作内容:
-
-..    freshman-course
-..    club-fair
-..    welcome-party
-..    anime-night
-..    new-year-concert
-..    acg-concert
-..    spring-concert
+   freshman-course
+   club-fair
+   welcome-party
+   anime-night
+   acg-concert
+   sufeng
+   college-carnival
 
 
 
