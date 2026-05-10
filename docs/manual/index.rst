@@ -7,9 +7,9 @@
 常用文件
 --------------------------
 
-:download:`奖品签领表 <../assets/pdf/签领表.pdf>` 
+:download:`奖品签领表 <../_static/pdf/签领表.pdf>` 
 
-:download:`学年工作清单 <../assets/html/学年工作.html>` 
+:download:`学年工作清单 <../_static/html/学年工作.html>` 
 
 
 .. .. toctree::
