@@ -9,8 +9,24 @@
    :scale: 50 %
    :alt: 2022 年新年音乐会合照
 
+.. figure:: ../assets/21Fa-pro-1.png
+   :scale: 50 %
+   :alt: 2022 年新年音乐会节目单（正面）
+
+.. figure:: ../assets/21Fa-pro-2.png
+   :scale: 50 %
+   :alt: 2022 年新年音乐会节目单（背面）
+
 2022 年春季音乐会
 ------
+
+.. figure:: ../assets/2022Sp.jpg
+   :scale: 50 %
+   :alt: 2022 年春季音乐会合照
+
+.. figure:: ../assets/22Sp-pro-2.png
+   :scale: 50 %
+   :alt: 2022 年春季音乐会节目单（背面）
 
 2023 年新年音乐会
 ------
