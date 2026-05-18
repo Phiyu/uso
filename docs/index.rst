@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-中国科学技术大学学生管弦乐团  
-####################============
+中国科学技术大学学生管弦乐团
+#############################
 
 这里是中国科学技术大学学生管弦乐团（USO，简称校学生管弦乐团）社团指北～
 
