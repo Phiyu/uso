@@ -1,0 +1,4 @@
+/* 修复图片拉伸：覆盖 Sphinx 内联的 height，保持宽高比 */
+.rst-content img {
+    height: auto !important;
+}

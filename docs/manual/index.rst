@@ -8,7 +8,10 @@
 --------------------------
 
 :download:`奖品签领表 <../_static/pdf/签领表.pdf>` 
+
 :download:`专场音乐会策划案（2025秋，张博涵） <../_static/pdf/2025新年音乐会策划案.pdf>` 
+
+:download:`校学生管弦乐团活动室简介 <../_static/pdf/校学生管弦乐团活动室简介.pdf>` 
 
 
 .. toctree::
