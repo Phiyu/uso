@@ -13,4 +13,5 @@
    2025-new-year
    2025-spring
    2026-new-year
+   2026-chamber
    2026-spring
