@@ -17,5 +17,5 @@
    begin
    scores
    manual/index
-   concert-history
+   concert/index
    qna
