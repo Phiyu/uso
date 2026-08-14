@@ -2,3 +2,19 @@
 .rst-content img {
     height: auto !important;
 }
+
+/* 侧边栏左上角 logo：圆框，缩小到默认的一半 */
+.wy-side-nav-search > a img.logo {
+    max-width: 50% !important;
+    border-radius: 50%;
+    border: 2px solid #333;
+    box-sizing: border-box;
+}
+
+/* 社团简介内联 logo：圆形裁剪（无边框），作为词块的一部分（约 2 倍正文高度） */
+.rst-content img.inline-logo {
+    height: 2.4em !important;
+    width: 2.4em !important;
+    vertical-align: -0.8em;
+    border-radius: 50%;
+}
