@@ -26,6 +26,10 @@
    sufeng
    college-carnival
    acg-concert
+   department
+   piano-guide
+   room-guide
+   room-guide-short
 
 
 
